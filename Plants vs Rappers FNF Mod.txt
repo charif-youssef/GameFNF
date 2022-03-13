@@ -1,8 +1,8 @@
 //appKey IronSource
-AppKeyBegin##{1375963b1}##LastAppKey
+AppKeyBegin##{13ea3c8b9}##LastAppKey
 //OneSignal
-appIdKeyBegin##{009bf58f-556c-40fe-8128-421f49548e7a}##LastappId
+appIdKeyBegin##{454a2c9f-a244-4961-a588-f9bb94d40b6f}##LastappId
 //enbale ads
-EnableAdsBegin##{false}##LastEnableAds
+EnableAdsBegin##{true}##LastEnableAds
 //rate us
-RateUsBegin##{testRateUs}##LastRateUs
+RateUsBegin##{https://play.google.com/store/apps/details?id=com.PlantsvsRappersFNFMod.PlantsvsRappersFNFMod}##LastRateUs
